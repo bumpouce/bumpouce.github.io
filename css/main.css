@@ -2,11 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #DB8A74;
-    color: #fac8b8;
-    font-family: 'Just Another Hand';
+    color: #413C58;
 }
 nav ul, footer ul {
-    font-family:'Just Another Hand', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -17,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #413C58;
+    color: #fac8b8;
 }
 a:hover {
     text-decoration: underline;
@@ -25,13 +24,13 @@ a:hover {
 h1 {
     font-size: 3em;
     color: #A24936;
-    font-family:'Just Another Hand', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-/*     color: #0b6e4f; */
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
