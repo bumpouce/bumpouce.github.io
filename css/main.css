@@ -3,6 +3,7 @@ body {
     width: 70%;
     background-color: #DB8A74;
     color: #fac8b8;
+    font-family: 'Just Another Hand';
 }
 nav ul, footer ul {
     font-family:'Just Another Hand', 'Arial', 'Sans-Serif';
@@ -29,7 +30,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #0b6e4f;
+/*     color: #0b6e4f; */
 }
 footer {
     border-top: 1px solid #d5d5d5;
