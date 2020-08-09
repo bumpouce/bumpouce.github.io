@@ -1,11 +1,24 @@
 ---
 layout: default
-title: Christine's Blog
+title: Writing
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="posts">
 
-	  {% for post in site.posts %}
+		<h2>Medium Blog Posts</h2>
+		<a href="https://medium.com/@bumpouce">View blog on Medium</a>	
+		<div id="retainable-rss-embed"
+			data-rss="https://medium.com/feed/@bumpouce"
+			data-maxcols="1" 
+			data-layout="slider" 
+			data-poststyle="inline" 
+			data-readmore="Read the rest..." 
+			data-buttonclass="btn btn-primary" 
+			data-offset="-100">
+		</div>
+
+			<h2>Reading & Study Notes</h2>
+	  {% for post in site.categories.blog %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul> 

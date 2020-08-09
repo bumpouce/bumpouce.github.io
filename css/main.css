@@ -2,10 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #DB8A74;
-    color: #413C58;
+    color: #6C3223;
+    font-family:'Didot', 'Arial', 'Sans-Serif';
 }
+
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,15 +25,14 @@ a:hover {
 h1 {
     font-size: 3em;
     color: #A24936;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family:'Didot', 'Arial', 'Sans-Serif'; */
 }
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #fac8b8;
     font-size: .8em;
 }
 
@@ -43,4 +43,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-size: medium;
 }
