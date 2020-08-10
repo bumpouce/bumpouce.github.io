@@ -36,6 +36,17 @@ footer {
     font-size: .8em;
 }
 
+.show{
+    height: 200px;
+    max-width: 25%;
+    vertical-align: middle;
+}
+
+.project-image{
+    height: 400px;
+    vertical-align: middle;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;

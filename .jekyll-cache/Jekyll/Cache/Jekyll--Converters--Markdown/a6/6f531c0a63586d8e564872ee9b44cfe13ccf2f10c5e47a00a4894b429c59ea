@@ -1,0 +1,12 @@
+I"í<div>
+    <h1>BookDiary</h1>
+    <ul>
+        <li>About</li>
+        <li>Plan</li>
+        <li>Technologies</li>
+        <li>Walkthrough</li>
+        <li>Link</li>
+    </ul>
+    <img src="/assets/images/BookDiary.png" class="" />
+</div>
+:ET

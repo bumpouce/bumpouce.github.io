@@ -7,11 +7,10 @@ summary: "A CLI reading journal with ratings and suggestions."
 ---
 <div>
     <h1>BookDiary</h1>
-    <ul>
-        <li>About</li>
-        <li>Plan</li>
-        <li>Technologies</li>
-        <li>Walkthrough</li>
-        <li>Link</li>
-    </ul>
+    <img src="/assets/images/BookDiary.png" class="project-image">
+    About<br>
+    Plan<br>
+    Technologies<br>
+    Walkthrough<br>
+    Link<br>
 </div>
