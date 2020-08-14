@@ -3,7 +3,7 @@ layout: default
 title: Generative Art
 date: 2020-03-27
 categories: project
-summary: "Manipulating the Generative Art project of []"
+summary: "Learning from Luke Patton's year of generative art cards project"
 ---
 <div>
     <h1>Generative Art</h1>
