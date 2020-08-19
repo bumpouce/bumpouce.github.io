@@ -23,7 +23,7 @@ summary: "A CLI reading journal with ratings and suggestions."
     <iframe width="1120" height="630" src="https://www.youtube.com/embed/IThv0h9Ozeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     <br><h3>Link</h3>
-    <p>To be released</p>
+    <p><a href="https://bumpouce.github.io/bookdiaryweb/">BookDiary Web Interface</a></p>
     
     <br><h3>Future Development</h3>
     <p>I'd like to deploy this as a web interface, allow for notes about each book, add a personal quotations list, and make the recommendations more refined.</p>

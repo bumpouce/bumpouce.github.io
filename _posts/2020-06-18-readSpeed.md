@@ -12,6 +12,6 @@ summary: "A literacy training app aimed at improving reading speed, comprehensio
     <li>Plan</li>
     <li>Technologies</li>
     <li>Walkthrough</li>
-    <li>Link</li>
+    <li><a href="https://bumpouce.github.io/speedRead-FrontEnd/">readSpeed Web Interface</a></li>
   </ul>
 </div>
